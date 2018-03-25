@@ -5,7 +5,6 @@
 * **.eslintrc**
 * **.eslintignore**
 * **package.json**
-  * a `build` script has been configured for building the app with webpack
   * a `watch` script has been configured for watching the app with webpack-dev-server
 * **webpack.config.js**
 * **src/** - contains frontend code
